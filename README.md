@@ -3,36 +3,36 @@ The projects I've completed while at The University of Texas at Dallas.
 
 These are projects that show off many of the different types of skills I have acquired over the past few months.
 They include:
-- Classes/ Operator Overloading
-      #1:
+Classes/ Operator Overloading
+   -  #1:
       In this assignment you are going to create a calculator that reads in commands from an input file called
       input.txt and performs the actions required by the commands.
       The program needs to consist of multiple functions. You need your main and at least two additional
       functions. You can have more than two if desired. 
-      #2:
+   -  #2:
       Write a program that simulates a soft drink machine. The program will need several classes: DrinkItem,
       DrinkMachine and Receipt. For each of the classes you must create the constructors and member
       functions required below. You can, optionally, add additional private member functions that can be used
       for doing implementation work within the class.
    
-- Linked List and Ordered Linked List
-      #3:
+Linked List and Ordered Linked List
+   -  #3:
       In this assignment you are going to create a double linked list and an ordered double linked list.
       The bulk of the work will be building the double linked list. This will be a template classes named
       ListNode<DataType> and DoubleLinkedList<DataType>.
       You will also be building an ordered linked list template class named
       OrderedDoubleLinkedList<DataType>.
       
- - Stack and Queue
-      #4:
+Stack and Queue
+   -  #4:
       In assignment 3 you created a double linked list and an ordered double linked list. You will be using the
       DoubleLinkedList and ListNode classes to implement stack and queue classes. We really only need a
       linked list for this exercise, but we already have a nice double linked list you have written and we are
       going to make use of it. You will once again be using composition and not inheritance to reuse the
       DoubleLinkedList class. 
 
-- Binary Search Tree
-      #5:
+Binary Search Tree
+   -  #5:
       You will be creating a program that allows you to quickly solve Jumble or Scram-lets types of puzzles. To
       do this be using a binary search tree you will be creating. Your application will read in a list of words
       (over 35,000). You will sort the letters of each word to create a key. You will then add the key (and the
